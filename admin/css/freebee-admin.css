@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.toplevel_page_freebee_il_options .notice a.freebee-options-link{
+	display: none;
+}
+.toplevel_page_freebee_il_options form input{
+	width: 268px;
+}
+.toplevel_page_freebee_il_options .api-response{
+	display: table;
+	border: 1px solid #444;
+	margin-top: 12px;
+	margin-left: 120px;
+}
+.toplevel_page_freebee_il_options .api-response p{
+	color: white;
+	margin: 0;
+	padding: 6px 12px;
+}
+.toplevel_page_freebee_il_options .api-response p.valid{
+	background-color: green;
+}
+.toplevel_page_freebee_il_options .api-response p.invalid{
+	background-color: red;
+}
+.post-type-shop_order #freebee-il-transaction-id .freebee-il-transaction-error{
+	background: rgba(240,50,40,0.5);
+    margin-top: 0;
+    padding-top: 12px;
+    color: black;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 976px){
+	.toplevel_page_freebee_il_options .api-response{
+		margin-left: 0;
+	}
+}

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Freebee Integration\n"
+"POT-Creation-Date: 2017-11-24 14:57+0100\n"
+"PO-Revision-Date: 2017-11-24 14:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-freebee-integration.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-freebee-admin.php:55 admin/class-freebee-admin.php:74
+#: includes/class-freebee.php:185
+msgid "Freebee"
+msgstr "Freebee"
+
+#: admin/class-freebee-admin.php:55
+msgid ""
+"You have to add Your Freebee user data in order for this plugin to work."
+msgstr ""
+"Musisz dodać dane użytkownika Twojego konta Freebee, aby wtyczka mogła "
+"zacząć działać."
+
+#: admin/class-freebee-admin.php:56
+msgid "Options page."
+msgstr "Strona opcji."
+
+#: admin/class-freebee-admin.php:75
+msgid "Freebee Options"
+msgstr "Opcje Freebee"
+
+#: admin/class-freebee-admin.php:102
+msgid "Save Settings"
+msgstr "Zapisz Ustawienia"
+
+#: admin/class-freebee-admin.php:114
+msgid "Success logs"
+msgstr "Logi sukcesu"
+
+#: admin/class-freebee-admin.php:115
+msgid "Failure logs"
+msgstr "Logi błędów"
+
+#: admin/class-freebee-admin.php:121
+msgid "MAM ID"
+msgstr "Identyfikator MAM"
+
+#: admin/class-freebee-admin.php:122
+msgid "Unique API Token"
+msgstr "Unikalny ciąg znaków API"
+
+#: admin/class-freebee-admin.php:134
+msgid "Insert Your Api ID number and secret key"
+msgstr "Wprowadź numer ID Api i sekretny klucz"
+
+#: admin/class-freebee-admin.php:149
+msgid "Your data is valid, integration with freebee is working."
+msgstr "Twoje dane są poprawne, integracja z Freebee włączona."
+
+#: admin/class-freebee-admin.php:151
+msgid "Something is wrong with connection, try updating fields."
+msgstr "Coś poszło nie tak, spróbuj zaktualizować pola."
+
+#: admin/class-freebee-admin.php:182
+msgid "Freebee transaction ID"
+msgstr "ID transakcji Freebee"
+
+#: admin/class-freebee-admin.php:199
+msgid "Freebee integration not used"
+msgstr "Integracja Freebee nie użyta"
+
+#: includes/class-freebee-wc-api-connector.php:101
+msgid "Error in adding transaction"
+msgstr "Błąd podczas dodawania transakcji"
+
+#: includes/class-freebee.php:174
+msgid "Author"
+msgstr "Autor"
+
+#: includes/class-freebee.php:175
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/class-freebee.php:185
+msgid "integration requires activate WooCommerce plugin to work."
+msgstr "Integracja wymaga aktywnej wtyczki WooCommerce do działania."
+
+#: public/class-freebee-public.php:76
+msgid "Personal ID MAM: "
+msgstr "Identyfikator MAM"
+
+#: public/class-freebee-public.php:82
+msgid "Insert Your client ID MAM."
+msgstr "Wprowadź swój numer ID MAM."
+
+#: public/class-freebee-public.php:116
+msgid "Your ID MAM must consist 9 digits."
+msgstr "Twój numer ID MAM musi składać się z 9 znaków."
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Freebee Integration"
+msgstr "Woocommerce Freebee Integracja"
+
+#. Plugin URI of the plugin/theme
+msgid "https://inspirelabs.pl/"
+msgstr "https://inspirelabs.pl/"
+
+#. Description of the plugin/theme
+msgid "Freebee integration with WooCommerce."
+msgstr "Integracja WooCommerce z Freebee."
+
+#. Author of the plugin/theme
+msgid "Inspire Labs"
+msgstr "Inspire Labs"
+
+#~ msgid "Client ID"
+#~ msgstr "ID Klienta"
+
+#~ msgid "Freebee personal ID: "
+#~ msgstr "Osobiste ID Freebee"
